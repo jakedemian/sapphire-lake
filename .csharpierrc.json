@@ -1,0 +1,14 @@
+{
+    "printWidth": 100,
+    "useTabs": false,
+    "tabWidth": 4,
+    "preprocessorSymbolSets": ["", "DEBUG", "DEBUG,CODE_STYLE"],
+    "newLinesForBracesInTypes": false,
+    "newLinesForBracesInMethods": false,
+    "newLinesForBracesInProperties": false,
+    "newLinesForBracesInAnonymousMethods": false,
+    "newLinesForBracesInControlBlocks": false,
+    "newLinesForBracesInLambdaExpressionBody": false,
+    "newLinesForBracesInMethodsExceptSingleLine": false,
+    "newLinesForBracesInPropertiesExceptSingleLine": false
+}
